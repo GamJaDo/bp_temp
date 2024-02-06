@@ -12,8 +12,6 @@ import org.springframework.stereotype.Service;
 import com.keepgoingLikeline.emotionDiary_backend.entity.UserEntity;
 import com.keepgoingLikeline.emotionDiary_backend.repository.UserRepository;
 
-import lombok.RequiredArgsConstructor;
-
 @Service
 public class OAuth2UserCustomService extends DefaultOAuth2UserService{
 	

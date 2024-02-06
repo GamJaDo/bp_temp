@@ -6,8 +6,6 @@ import org.springframework.stereotype.Service;
 import com.keepgoingLikeline.emotionDiary_backend.entity.RefreshToken;
 import com.keepgoingLikeline.emotionDiary_backend.repository.RefreshTokenRepository;
 
-import lombok.RequiredArgsConstructor;
-
 @Service
 public class RefreshTokenService {
 	
